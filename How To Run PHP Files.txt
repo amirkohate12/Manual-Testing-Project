@@ -1,0 +1,9 @@
+1. Download XAMPP server from https://www.apachefriends.org/download.html for running PHP code on local machine.
+2. Download ATOM editor from https://atom.io/ for writing or viewing PHP code.
+3. dOpen XAMPP and see if APACHE and MySQL service are running. If not, start them.
+4. Your PHP scripts must be placed inside a directory called webserver root. This is usually the htdocs directory located 
+   inside the development environment own installation directory. In XAMPP, you can open this directory from the XAMPP 
+   Control Panel by clicking on the Explorer button and then opening the htdocs directory.
+5. Open your brwoser and paste following URLs:
+	a. http://localhost/palindrome.php
+	b. http://localhost/array.php

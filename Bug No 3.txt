@@ -1,0 +1,29 @@
+Title:
+Toolbar at the bottom of the page is not working
+
+Browser:
+Chrome
+
+Steps to Reproduce:
+1. Go to https://www.videoslots.com/
+2. At the bottom of the page, look for toolbar.
+3. Click any button from the following:
+	a. New Games.
+	b. Featured.
+	c. Hot.
+	d. Popular.
+
+Actual Result:
+Upon clicking any button, I am not seeing the result based on the names.
+
+Expected Result:
+Upon clicking the the buttons, I should see the following items for the respective titles:
+	a. New Games: It should display the new games available.
+	b. Featured: It should show the featured games.
+	c. Hot: It should display the hot games.
+	d. Popular: It should display the popular games.
+
+Why Critical?
+It is critical because this is toolbar which is visible to the user. User might be interested in checking the games that
+are New, Featured, Hot, or Popular. User might be playing those games. If this is not working properly, user won't be
+able to use this awesome feature and it will impact the user experience.

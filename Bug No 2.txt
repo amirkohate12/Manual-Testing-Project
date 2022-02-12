@@ -1,0 +1,21 @@
+Title:
+Search field is not working
+
+Browser:
+Chrome
+
+Steps to Reproduce:
+1. Go to https://www.videoslots.com/
+2. At the bottom of the page, look for search field.
+3. Enter any text in the search field and press Enter.
+
+Actual Result:
+Upon entering text in the search field and pressing Enter, I am not seeing any search result on the page.
+
+Expected Result:
+Upon entering text in the search field and pressing Enter, I should see search results on the page.
+
+Why Critical?
+It is critical because search functionality is used to search some specific keywords from the database. As it is video
+website search should be working as user might have interest in some specific genre or keywords. Based on user's likeness,
+user should be able to search the website. It should worked whether user is registered or not.

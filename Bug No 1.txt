@@ -1,0 +1,23 @@
+Title:
+Pakistan is not available in the Country Dropdown
+
+Browser:
+Chrome
+
+Steps to Reproduce:
+1. Configure the Pakistan's IP or use VPN and select Pakistan.
+2. Go to https://www.videoslots.com/
+3. Click Open Account.
+
+Actual Result:
+I am seeing country code as 92 but I am not seeing Pakistan as country in the country dropdown. This might be happening for
+other countries as well.
+
+Expected Result:
+If I am seeing country code as 92 then I should see Pakistan as country in the country dropdown. If this website is not
+for Pakistan then it should not be accessible by IPs from Pakistan.
+
+Why Critical?
+It is critical because if there is not country available in the country dropdown then user won't be able to register on
+the website. Becasue, country is a mandatory field which we need upon registration to see the demographcis of the
+customers.
